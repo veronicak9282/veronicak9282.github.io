@@ -51,6 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am an aspiring researcher with a strong foundation in AI, computer vision, and computational photography, gained through coursework and hands-on projects. My research experience includes preprocessing and analyzing clinical datasets to support health-related studies. I am passionate about leveraging technology to address real-world challenges, particularly in developing innovative solutions for health monitoring and behavior analysis. I aim to deepen my expertise through interdisciplinary research and contribute to impactful advancements in these fields.
 
   I am most skilled in: <mark>Python</mark> and <mark>Eating Pizza</mark>
+  I am most
 
 content:
   - title: Projects # Title for the section
@@ -73,7 +74,7 @@ content:
           (1) Developed expertise in advanced image preprocessing techniques, including noise reduction, edge detection, Laplacian pyramids, and Fourier transforms, which extend to broader signal processing applications.
           (2) Gained proficiency in combining and enhancing visual data through methods such as HDR imaging, panorama stitching, and video texture generation, emphasizing seamless integration and artifact reduction.
           (3) Explored algorithms for image manipulation, such as object removal and seam carving, learning to optimize and adapt image energy metrics for effective content-aware processing.
-          
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
