@@ -49,11 +49,6 @@ youtube_username: @꾹만두
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Hyewon Jeon and I'm a junior back-end web developer. As well as developing web, I am also good at communicating with people. I have worked at a number of companies gaining teamwork and leadership skills.
-
-#about_content: | # this will include new lines to allow paragraphs
-#  I am an aspiring researcher with a strong foundation in AI, computer vision, and computational photography, gained through coursework and hands-on projects. My research experience includes preprocessing and analyzing clinical datasets to support health-related studies. I am passionate about leveraging technology to address real-world challenges, particularly in developing innovative solutions for health monitoring and behavior analysis. I aim to deepen my expertise through interdisciplinary research and contribute to impactful advancements in these fields.
-
-
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
