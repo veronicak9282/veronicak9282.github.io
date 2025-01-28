@@ -48,7 +48,7 @@ github_username:  veronicak9282
 # about_title: About Me
 about_profile_image: images/IMG_2931.png
 about_content: | # this will include new lines to allow paragraphs
-  I am an aspiring researcher with a strong foundation in AI, computer vision, and computational photography, gained through coursework and hands-on projects. My research experience includes preprocessing and analyzing clinical datasets to support health-related studies. I am passionate about leveraging technology to address real-world challenges, particularly in developing innovative solutions for health monitoring and behavior analysis. I aim to deepen my expertise through interdisciplinary research and contribute to impactful advancements in these fields.
+  I am an aspiring researcher with a strong foundation in <mark>AI</mark>, <mark>computer vision</mark>, and <mark>computational photography</mark>, gained through coursework and hands-on projects. My research experience includes preprocessing and analyzing clinical datasets to support health-related studies. I am passionate about leveraging technology to address real-world challenges, particularly in developing innovative solutions for <mark>health monitoring and behavior analysis</mark>. I aim to deepen my expertise through interdisciplinary research and contribute to impactful advancements in these fields.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -65,7 +65,24 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Developed skills to apply preprocessing techniques to image and signal processing applications
+          Developed skills to apply <mark>preprocessing techniques to image and signal processing applications</mark>
+        description: | # this will include new lines to allow paragraphs
+          (1) Developed expertise in advanced image preprocessing techniques, including noise reduction, edge detection, Laplacian pyramids, and Fourier transforms, which extend to broader signal processing applications.  
+          (2) Gained proficiency in combining and enhancing visual data through methods such as HDR imaging, panorama stitching, and video texture generation, emphasizing seamless integration and artifact reduction.  
+          (3) Explored algorithms for image manipulation, such as object removal and seam carving, learning to optimize and adapt image energy metrics for effective content-aware processing.  
+      - layout: top-middle
+        title: Computer Vision Course Project
+        link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Strengthened expertise in <mark>computer vision technologies for dynamic motion detection and object recognition</mark>
         description: | # this will include new lines to allow paragraphs
           (1) Developed expertise in advanced image preprocessing techniques, including noise reduction, edge detection, Laplacian pyramids, and Fourier transforms, which extend to broader signal processing applications.
           (2) Gained proficiency in combining and enhancing visual data through methods such as HDR imaging, panorama stitching, and video texture generation, emphasizing seamless integration and artifact reduction.
